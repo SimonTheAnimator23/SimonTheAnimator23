@@ -17,6 +17,6 @@
 <br>
 <h4>Sistema</h4>
 
-[![Nicholas stats](https://github-readme-stats.vercel.app/api?username=SimonTheAnimator23)](https://github.com/anuraghazra/github-readme-stats)
+![Nicholas GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonTheAnimator23&theme=shadow_red&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonTheAnimator23)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonTheAnimator23&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats&)
